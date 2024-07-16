@@ -4,3 +4,5 @@ This is a library management system that will first read the input of student in
 3) Calculate students with the same book
 4) Display warned students
 5) Calculate total book borrowed, overdue books and fine
+
+*First read the file of students and book to get the data for the list
